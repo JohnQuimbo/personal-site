@@ -1,15 +1,33 @@
-/* header{
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    padding: 10px;
+  }
 
-} */
-
-h1{
-    display: inline-block;
+h1 {
+    text-align: center;
+    color: lightslategrey;
 }
 
-h2{
-    display: inline;
+p {
+    text-align : center;
+    color:gray;
 }
 
-.headerPhoto{
-    display: inline-block;
+body {
+    background-color: lightslategrey;
+}
+
+header{
+    background-color: white;
+}
+
+ul{
+    list-style-type : none;
+}
+
+a{
+    color : blue;
 }
